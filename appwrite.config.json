@@ -1,0 +1,13 @@
+{
+  "$schema": "https://cloud.appwrite.io/v1/config/sites",
+  "projectId": "6a7bdafa002a2c16beb9",
+  "sites": [
+    {
+      "siteId": "malika-homepage",
+      "path": "./",
+      "installCommand": "npm install",
+      "buildCommand": "npm run build",
+      "outputDirectory": "dist"
+    }
+  ]
+}
